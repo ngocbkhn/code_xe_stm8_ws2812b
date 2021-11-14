@@ -1,1 +1,2 @@
-# code_xe_stm8_ws2812b
++ Download Altium to show design board
++ Download IAR-STM8 to build source code and add feature
